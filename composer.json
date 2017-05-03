@@ -1,0 +1,19 @@
+{
+    "name": "haroldlamchina/hell_ucan",
+    "description": "this's test;",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "haroldlam",
+            "email": "455727503@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "hello_ucan\\": "src/"
+        }
+    }
+}
