@@ -1,7 +1,6 @@
 {
     "name": "haroldlamchina/hell_ucan",
     "description": "this's test;",
-    "type": "composer-plugin",
     "license": "MIT",
     "authors": [
         {
@@ -11,6 +10,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
+        "haroldlamchina/hell_ucan": "dev-master"
     },
     "autoload": {
         "psr-4": {
