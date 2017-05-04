@@ -5,7 +5,7 @@
  * Date: 2017/5/3
  * Time: 17:58
  */
-/*namespace Hello;
+namespace hello_ucan;
 
 class SayHello
 {
@@ -13,4 +13,4 @@ class SayHello
     {
         return 'Hello World!';
     }
-}*/
+}
