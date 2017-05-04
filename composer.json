@@ -9,8 +9,7 @@
             "email": "455727503@qq.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {},
+    "minimum-stability": "dev-master",
     "autoload": {
         "psr-4": {
             "hello_ucan\\": "src/"
